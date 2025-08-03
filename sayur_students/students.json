@@ -1,0 +1,53 @@
+ {
+      "organization": {
+        "name": "Sayur Tech",
+        "mission": "Empowering the next generation of innovators and leaders by providing world-class training in practical, real-world skills, regardless of background.",
+        "partner_link": "http://patner.us/"
+      },
+      "featured_students": [
+        {
+          "name": "Chitra Ramesh",
+          "title": "Aspiring Full-Stack Developer",
+          "description": "Excels at building clean, efficient backend APIs and loves collaborative problem-solving.",
+          "profile_link": "https://student.profile",
+          "image": "IMG-20241106-WA0002.jpg"
+        },
+        {
+          "name": "Aarthi D.",
+          "title": "UX/UI Design Enthusiast",
+          "description": "A keen eye for user-centric design, creating intuitive and beautiful application interfaces.",
+          "profile_link": "https://student.profile",
+          "image": "IMG-20241106-WA0002.jpg"
+        },
+        {
+            "name":"Krishna M.",
+            "title":"Digital Marketing Strategist",
+            "description":"Expert in SEO and social media campaigns with a proven ability to grow online engagement.",
+            "profile":"https:student.profile",
+            "image":"IMG-20241106-WA0002.jpg"
+        },
+        {
+            "name":"Priya M.",
+            "title":"Digital Marketing Strategist",
+            "description":"Expert in SEO and social media campaigns with a proven ability to grow online engagement.",
+            "profile":"https:student.profile",
+            "image":"IMG-20241106-WA0002.jpg"
+        },
+        {
+            "name":"Aathi M.",
+            "title":"Digital Marketing Strategist",
+            "description":"Expert in SEO and social media campaigns with a proven ability to grow online engagement.",
+            "profile":"https:student.profile",
+            "image":"IMG-20241106-WA0002.jpg"
+        },
+        {
+            "name":"Dharshini M.",
+            "title":"Digital Marketing Strategist",
+            "description":"Expert in SEO and social media campaigns with a proven ability to grow online engagement.",
+            "profile":"https:student.profile",
+            "image":"IMG-20241106-WA0002.jpg"
+        }
+    ]
+   
+ }
+
