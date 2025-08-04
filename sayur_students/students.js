@@ -14,7 +14,7 @@ fetch('students.json')
       div.innerHTML=`
         <img src="${student.image}" width="100%">
         <h2>${student.name}</h2>
-        <p>${student.title}</p>
+        <p><b>${student.title}</b></p>
         <p>"${student.description}"</p>
         <a href="${student.profile_link}">View Full Profile</a>
       `;
