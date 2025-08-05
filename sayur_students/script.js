@@ -1,4 +1,4 @@
-fetch('students.json')
+fetch('data.json')
   .then(response => response.json())
   .then(data => {
     document.getElementById('org-name').innerText = data.organization.name;
